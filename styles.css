@@ -1,0 +1,19 @@
+body {
+    background-color: #272727;
+}
+div {
+  text-align: start;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #ff652f;
+}
+
+li {
+  background-color: #ffe400;
+  color: #747474;
+  font-size: 1em;
+}
+
+h1 {
+  color: #ff652f;
+}
